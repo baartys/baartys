@@ -1,5 +1,3 @@
-[![Header]()
-
 ##### Hi, I'm Baartys aka brusinac
 
 I am self-taught programmer/coder - depends on which word you use.
